@@ -17,22 +17,16 @@
     <modules>
         <module>SpringWeb</module>
         <module>SpringWeb/SpringRest</module>
-        <module>SpringWeb/SpringSoap</module>
         <module>SpringWeb/SpringGraphQL</module>
         <module>SpringWeb/SpringGRPC</module>
-        <module>SpringWeb/SpringWebSocket</module>
         <module>SpringWeb/SpringReactive</module>
         <module>SpringWeb/SpringAsync</module>
-        <module>SpringWeb/SpringRestTemplate</module>
-        <module>SpringWeb/SpringWebClient</module>
         <module>SpringData</module>
         <module>SpringData/SpringDataJDBC</module>
         <module>SpringData/SpringDataJPA</module>
         <module>SpringData/SpringDataMongoDB</module>
         <module>SpringData/SpringDataElasticSearch</module>
-        <module>SpringData/SpringDataRedis</module>
         <module>SpringBatch</module>
-        <module>SpringBootCQRSSAGA</module>
         <module>SpringEventDrivenKafka</module>
         <module>SpringEventDrivenRabbitMQ</module>
         <module>SpringSecurity</module>
@@ -40,9 +34,7 @@
         <module>SpringEventDrivenKafka/SpringBootKafkaProducer</module>
         <module>SpringEventDrivenKafka/SpringBootKafkaConsumer</module>
         <module>SpringEventDrivenKafka/SpringBootKafkaStreams</module>
-        <module>SpringIntegration</module>
         <module>SpringBootTesting</module>
-        <module>SpringBootELK</module>
         <module>SpringBootObservability</module>
         <module>SpringCloud</module>
         <module>SpringCloud/SpringCloudGateway</module>
